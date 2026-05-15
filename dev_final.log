@@ -1,0 +1,18 @@
+
+> my-project@0.1.0 dev
+> next dev
+
+⚠ Port 3000 is in use by process 12596, using available port 3001 instead.
+▲ Next.js 16.2.6 (Turbopack)
+- Local:         http://localhost:3001
+- Network:       http://10.83.145.131:3001
+- Environments: .env
+✓ Ready in 874ms
+[Error: Failed to check database invalidation and cleanup
+
+Caused by:
+    0: Unable to remove invalid database. If this issue persists you can work around by deleting "C:\\Users\\SANDHYA GUNDUBOINA\\Downloads\\unified-landing-page\\.next\\dev\\cache/turbopack".
+    1: The directory is not empty. (os error 145)] {
+  code: 'GenericFailure'
+}
+[?25h
